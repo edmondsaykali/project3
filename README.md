@@ -7,6 +7,7 @@ Purpose
 - Evaluate your coding abilities and your software engineering skills
 - Judge your technical experience
 - Understand how you design the solution 
+- Have a technical coversation once the code submission is done
 
 Instructions
 --
@@ -14,7 +15,7 @@ Instructions
  - Python and PySpark to be used
  - Feel free to use any libraries
  - Use a visualization library to present your analysis results.
- - Once completed plesae share the GitHub repository URL with hiring team, so they can review your work
+ - Any learnings/ challenges/ considerations/ assumptions, please document in MyDocument.md
  
 Challenge 
 --
@@ -51,6 +52,12 @@ Expectation includes:
 - If you had to trigger your code, please suggest your approach. 
 
 Technical Support:
+--
 1. Containerize ? Spark On Windows - https://towardsdatascience.com/apache-spark-on-windows-a-docker-approach-4dd05d8a7147- Should we have this?
 2. Databricks community edition??
 3. Azure etc?
+
+Submission:
+-- 
+To start with, fork this repository follow the instructions and commit/push your code into your own Git . Once completed plesae share the GitHub repository URL with hiring team, so they can review your work.
+
