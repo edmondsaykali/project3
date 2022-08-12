@@ -46,6 +46,11 @@ This challenge is composed of following steps:
 Expectation includes: 
 --
 - Test cases 
-- Comments 
+- Code Comments 
 - If any deployment to be done, proposals of the deployment steps
 - If you had to trigger your code, please suggest your approach. 
+
+Technical Support:
+1. Containerize ? Spark On Windows - https://towardsdatascience.com/apache-spark-on-windows-a-docker-approach-4dd05d8a7147- Should we have this?
+2. Databricks community edition??
+3. Azure etc?
