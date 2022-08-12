@@ -11,11 +11,11 @@ Purpose
 
 Instructions
 --
-- Fork this repository by following below steps
- - Python and PySpark to be used
- - Feel free to use any libraries
- - Use a visualization library to present your analysis results.
- - Any learnings/ challenges/ considerations/ assumptions, please document in MyDocument.md
+- Fork this repository
+- Python and PySpark to be used
+- Feel free to use any libraries
+- Use a visualization library to present your analysis results.
+- Any learnings/ challenges/ considerations/ assumptions, please document in MyDocument.md
  
 Challenge 
 --
@@ -39,9 +39,9 @@ This challenge is composed of following steps:
 
 2.Data Processing: 
 -- 
-- Build functions to process your dataset (Cleaning, column pre-processing, data wrangling, transformation etc) 
-- Apply atleast 3 feaure engineering techniques 
-- Features removal 
+- Create functions to process your dataset (Cleaning, column pre-processing, data wrangling, transformation etc) 
+- Apply atleast 3 feature engineering techniques 
+- Features removal based on the exploration/ profiling.
 - Store your processed data into a target file
 
 Expectation includes: 
@@ -59,5 +59,5 @@ Technical Support:
 
 Submission:
 -- 
-To start with, fork this repository follow the instructions and commit/push your code into your own Git . Once completed plesae share the GitHub repository URL with hiring team, so they can review your work.
+Commit/push your code into your own Git. Once you are good, please share the GitHub repository URL with hiring team, so they can review your work.
 
