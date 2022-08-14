@@ -53,7 +53,7 @@ Expectation includes:
 
 Technical Support:
 --
-Please follow the installation instructions in [here]("https://github.com/projectforyou/project1/edit/main/INSTALL.md")
+Please follow the installation instructions in ["here"](https://github.com/projectforyou/project1/edit/main/INSTALL.md)
 
 Once you complete the installation, please follow below steps: 
 1. Open the notebook, assesment_notebook.ipynb
