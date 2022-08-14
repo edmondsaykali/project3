@@ -11,7 +11,7 @@ Purpose
 
 Instructions
 --
-- Fork this repository
+- 
 - Python and PySpark to be used
 - Feel free to use any libraries
 - Use a visualization library to present your analysis results.
@@ -53,17 +53,17 @@ Expectation includes:
 
 Technical Support:
 --
-Please follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
+1. Fork this repository to your local 
+2. Follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
+3. Open the Jupyter notebook (assesment_notebook.ipynb) using the link similar to the one highlighted in the picture - [jupyter-notebook](https://github.com/projectforyou/project1/blob/main/docker-compose.png)
+4. Run the cells as per the documentations provided. 
 
-Once you complete the installation, please follow below steps: 
-1. Open the notebook, assesment_notebook.ipynb
-2. Run the cells as per the documentations provided. 
+By now you would have already have below things in place:
 
-By running all the cells, you would have: 
-
-- Imported required libraries. (Please feel free to import any new library, if required). 
-- Datasets required for the starting your activity.
-- Sample function arriving at a KPI.
+- Created Spark cluster with a master and 2 worker nodes.
+- Notebook to start working having the basic libraries imported (Please feel free to import any new library, if required). 
+- Datasets read that is required for your activity.
+- Sample function within the notebook arriving at a basic KPI.
 - Sample test case for testing the function. 
 
 Submission:
