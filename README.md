@@ -53,11 +53,19 @@ Expectation includes:
 
 Technical Support:
 --
-1. Containerize ? Spark On Windows - https://towardsdatascience.com/apache-spark-on-windows-a-docker-approach-4dd05d8a7147- Should we have this?
-2. Databricks community edition??
-3. Azure etc?
+Please follow the installation instructions as in here.
+
+Once you complete the installation, please follow below steps: 
+1. Open the notebook, assesment_notebook.ipynb
+2. Run the cells as per the documentations provided. 
+
+	By running all the cells, you would have: 
+		a. Imported required libraries. (Please feel free to import any new library, if required). 
+		b. Datasets required for the starting your activity.
+		c. Sample function arriving at a KPI.
+		d. Sample test case for testing the function. 
 
 Submission:
 -- 
-Commit/push your code into your own Git. Once you are good, please share the GitHub repository URL with hiring team, so they can review your work.
+Once the activity is completed, commit/push your code into your own Git. Please share the GitHub repository URL with hiring team, so they can review your work.
 
