@@ -59,11 +59,11 @@ Once you complete the installation, please follow below steps:
 1. Open the notebook, assesment_notebook.ipynb
 2. Run the cells as per the documentations provided. 
 
-	By running all the cells, you would have: 
-		a. Imported required libraries. (Please feel free to import any new library, if required). 
-		b. Datasets required for the starting your activity.
-		c. Sample function arriving at a KPI.
-		d. Sample test case for testing the function. 
+By running all the cells, you would have: 
+	a. Imported required libraries. (Please feel free to import any new library, if required). 
+	b. Datasets required for the starting your activity.
+	c. Sample function arriving at a KPI.
+	d. Sample test case for testing the function. 
 
 Submission:
 -- 
