@@ -60,10 +60,11 @@ Once you complete the installation, please follow below steps:
 2. Run the cells as per the documentations provided. 
 
 By running all the cells, you would have: 
-	a. Imported required libraries. (Please feel free to import any new library, if required). 
-	b. Datasets required for the starting your activity.
-	c. Sample function arriving at a KPI.
-	d. Sample test case for testing the function. 
+
+- Imported required libraries. (Please feel free to import any new library, if required). 
+- Datasets required for the starting your activity.
+- Sample function arriving at a KPI.
+- Sample test case for testing the function. 
 
 Submission:
 -- 
