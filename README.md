@@ -11,7 +11,7 @@ Purpose
 
 Instructions
 -- 
-- Python and PySpark to be used
+- PySpark should be used
 - Feel free to use any libraries (you can use pip install, if needed)
 - Use a visualization library to present your analysis results.
 - Any learnings/ challenges/ considerations/ assumptions, please document in MyDocument.md
