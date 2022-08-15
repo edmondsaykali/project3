@@ -18,7 +18,7 @@ In this challenge, we will use a dataset having the current job posting hosted b
 
 This challenge is composed of following steps: 
 
-### Data Exploration (Use Jupyter notebook)
+### Data Exploration
 
 - Provide a detailed analysis of source data: Column values (eg: Numerical vs character), categorical columns, etc. 
 - List of KPIs to be resolved:
@@ -29,15 +29,16 @@ This challenge is composed of following steps:
   - Whats the job positings average salary per agency for the last 2 years? 
   - What are the highest paid skills in the US market? 
 
-### Data Processing: 
+### Data Processing
  
 - Create functions to process your dataset (Cleaning, column pre-processing, data wrangling, transformation etc) 
 - Apply atleast 3 feature engineering techniques 
 - Features removal based on the exploration/ profiling.
 - Store your processed data into a target file
 
-## Expectation includes (Along with above mentioned challenge): 
+## Expectations
 
+- Above mentioned challenge
 - Test cases 
 - Code Comments 
 - If any deployment to be done, proposals of the deployment steps
