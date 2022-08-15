@@ -10,9 +10,9 @@ Using Windows:
 2. Make sure docker desktop is up and running.
 3. Open the power shell and trigger below lines of the code
 
-	cd <parent-directory-where-you-would-clone-the-Git-branch>
+	cd {project1-directory}
 	
-	docker compose -f ./project1/docker-compose.yml --project-name my_assesment up
+	docker compose -f ./docker-compose.yml --project-name my_assesment up
 
 
 Using MacOS:
@@ -22,7 +22,7 @@ Using MacOS:
 2. Make sure docker desktop is up and running.
 3. Open the shell and run the below line 
 	
-	cd <parent-directory-where-you-would-clone-the-Git-branch>
+	cd {project1-directory}
 	
-	docker compose -f ./project1/docker-compose.yml --project-name my_assesment up
+	docker compose -f ./docker-compose.yml --project-name my_assesment up
 
