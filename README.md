@@ -10,8 +10,7 @@ Purpose
 - Have a technical coversation once the code submission is done
 
 Instructions
---
-- 
+-- 
 - Python and PySpark to be used
 - Feel free to use any libraries
 - Use a visualization library to present your analysis results.
@@ -53,7 +52,7 @@ Expectation includes:
 
 Technical Support:
 --
-1. Fork this repository to your local 
+1. Fork this repository to your local one
 2. Follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
 3. Open the Jupyter notebook (assesment_notebook.ipynb) using the link similar to the one highlighted in the picture - [jupyter-notebook](https://github.com/projectforyou/project1/blob/main/docker-compose.png)
 4. Run the cells as per the documentations provided. 
