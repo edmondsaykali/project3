@@ -68,9 +68,8 @@ By now you would have already have below things in place:
 - Sample function within the notebook arriving at a basic KPI.
 - Sample test case for testing the function. 
 
-Happy Coding!!
-
 Submission:
 -- 
 Once the activity is completed, commit/push your code into your own Git. Please share the GitHub repository URL with hiring team, so they can review your work.
 
+Happy Coding!!
