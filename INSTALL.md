@@ -4,8 +4,9 @@ IMPORTANT: Any installation option requires at least 8Gb of RAM for proper opera
 
 1. Docker Desktop
 
-	Using Windows: Install docker desktop https://docs.docker.com/desktop/install/windows-install/
-	Using MacOS: Follow instructions in the below link to setup your MacOS https://arjon.es/2019/setting-up-macbook-pro-for-development/
+	**Using Windows**: Install docker desktop https://docs.docker.com/desktop/install/windows-install/
+	
+	**Using MacOS**: Follow instructions in the below link to setup your MacOS https://arjon.es/2019/setting-up-macbook-pro-for-development/
 
 2. Ensure docker desktop is up and running by following below validations:
 	
