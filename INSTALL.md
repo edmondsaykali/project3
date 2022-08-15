@@ -1,7 +1,7 @@
 # Installation Instructions
  
 
-***IMPORTANT**: Any installation option requires at least 8Gb of RAM for proper operation.*
+**IMPORTANT**: *Any installation requires at least 8Gb of RAM for proper operation.*
 
 1. Install Docker Desktop
 
