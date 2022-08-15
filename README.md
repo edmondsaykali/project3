@@ -55,7 +55,7 @@ Technical Support:
 1. Fork this repository to your local one.
 2. Follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
 3. Setup Validation - [SETUP_VALIDATION.md](https://github.com/projectforyou/project1/blob/main/SETUP_VALIDATION.md)
-4. Open the Jupyter notebook (assesment_notebook.ipynb) using the link similar to the one highlighted in the picture - ![jupyter-notebook](https://github.com/projectforyou/project1/blob/main/docker-compose.png)
+4. Open the Jupyter notebook (assesment_notebook.ipynb) using the link similar to the one highlighted in the picture - ![jupyter-notebook](https://github.com/projectforyou/project1/blob/main/pictures/docker-compose.png)
 5. Run the cells as per the documentations provided. 
 
 By now you would have already have below things in place:
