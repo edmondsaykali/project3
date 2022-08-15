@@ -9,11 +9,20 @@ IMPORTANT: Any installation option requires at least 8Gb of RAM for proper opera
 
 2. Ensure docker desktop is up and running by following below validations:
 	
-	Setup Validation - [SETUP_VALIDATION.md](https://github.com/projectforyou/project1/blob/main/SETUP_VALIDATION.md) 
+	Open Docker desktop and check for "my_assesment" project having 5 containers as below
 
-3. Spinup Spark cluster: 
+	  ![docker-desktop](https://github.com/projectforyou/project1/blob/main/pictures/docker-desktop-containers.png)
+
+3. Spin-up Spark cluster: 
 	a. Open shell and run the below lines
 	b. Change directory to the /project1
 		cd {project1-directory}
 	c. Docker compose
+	
 		docker compose -f ./docker-compose.yml --project-name my_assesment up
+	
+	
+   	Validate if Spark Cluster is up and running in the Spark Master UI with 2 worker nodes -
+	
+   	![spark-master-ui](https://github.com/projectforyou/project1/blob/main/pictures/spark-master-ui.png)
+
