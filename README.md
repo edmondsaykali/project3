@@ -21,7 +21,7 @@ Challenge
 In this challenge, we will use a dataset having the current job posting hosted by the City of New york which is available on the City of New York's official jobs site (https://www1.nyc.gov/jobs/index.page).
 
 - Internal postings availble to city employees and external postings availbale to the public are included. 
-- Data is accesible in the CSV file attached
+- Data is accesible in the CSV file [nyc-jobs.csv](https://github.com/projectforyou/project1/dataset/nyc-jobs.csv)
 
 This challenge is composed of following steps: 
 
