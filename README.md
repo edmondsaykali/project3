@@ -1,23 +1,16 @@
-Coding Challenge
---
+# Coding Challenge
+
 This Code assessment represents a coding challenge for Data Engineering roles.
 
-Purpose
---
+## Purpose
+
 - Evaluate your coding abilities and your software engineering skills
 - Judge your technical experience
 - Understand how you design the solution 
 - Have a technical coversation once the code submission is done
 
-Instructions
--- 
-- PySpark should be used
-- Feel free to use any libraries (you can use pip install, if needed)
-- Use a visualization library to present your analysis results.
-- Any learnings/ challenges/ considerations/ assumptions, please document in MyDocument.md
- 
-Challenge 
---
+## Challenge 
+
 In this challenge, we will use a dataset having the current job posting hosted by the City of New york which is available on the City of New York's official jobs site (https://www1.nyc.gov/jobs/index.page).
 
 - Internal postings availble to city employees and external postings availbale to the public are included. 
@@ -25,8 +18,8 @@ In this challenge, we will use a dataset having the current job posting hosted b
 
 This challenge is composed of following steps: 
 
-1.Data Exploration (Use Jupyter notebook)
---
+### Data Exploration (Use Jupyter notebook)
+
 - Provide a detailed analysis of source data: Column values (eg: Numerical vs character), categorical columns, etc. 
 - List of KPIs to be resolved:
   - Whats the number of jobs posting per category (Top 10)? 
@@ -36,27 +29,37 @@ This challenge is composed of following steps:
   - Whats the job positings average salary per agency for the last 2 years? 
   - What are the highest paid skills in the US market? 
 
-2.Data Processing: 
--- 
+### Data Processing: 
+ 
 - Create functions to process your dataset (Cleaning, column pre-processing, data wrangling, transformation etc) 
 - Apply atleast 3 feature engineering techniques 
 - Features removal based on the exploration/ profiling.
 - Store your processed data into a target file
 
-Expectation includes (Along with above mentioned activities): 
---
+## Expectation includes (Along with above mentioned challenge): 
+
 - Test cases 
 - Code Comments 
 - If any deployment to be done, proposals of the deployment steps
 - If you had to trigger your code, please suggest your approach. 
 
-Technical Support:
---
+## Coding Instructions
+
+- PySpark should be used
+- Feel free to use any libraries (you can use pip install, if needed)
+- Use a visualization library to present your analysis results.
+- Any learnings/ challenges/ considerations/ assumptions, please document in MyDocument.md
+
+## Technical Support:
+
 1. Fork this repository to your local one.
 2. Follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
-3. Open the Jupyter notebook home page, using the link similar to the one highlighted in the picture - ![jupyter-notebook](https://github.com/projectforyou/project1/blob/main/pictures/docker-compose.png)
+3. Open the Jupyter notebook home page, using the link similar to the one highlighted in the picture 
+
+  ![jupyter-notebook](https://github.com/projectforyou/project1/blob/main/pictures/docker-compose.png)
+
 4. Open the notebook (assesment_notebook.ipynb). 
-5. Read the documentation and run the cells accordingly. Once you create a spark session you should be able to see application "pyspark-assesment" running in the Spark Master UI as below. 
+5. Read the documentation and run the cells accordingly. Once you create a spark session you should be able to see application **pyspark-assesment** running in the Spark Master UI as below. 
 
   ![spark-application](https://github.com/projectforyou/project1/blob/main/pictures/spark-application.png)
 
@@ -68,8 +71,8 @@ By now you would have already have below things in place:
 - Sample function within the notebook arriving at a basic KPI.
 - Sample test case for testing the function. 
 
-Submission:
--- 
+## Submission:
+ 
 Once the activity is completed, commit/push your code into your own Git. Please share the GitHub repository URL with hiring team, so they can review your work.
 
-Happy Coding!!
+# Happy Coding!!
