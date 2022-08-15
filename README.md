@@ -48,7 +48,7 @@ This challenge is composed of following steps:
 - PySpark should be used
 - Feel free to use any libraries (you can use pip install, if needed)
 - Use a visualization library to present your analysis results.
-- Any learnings/ challenges/ considerations/ assumptions, please document in MyDocument.md
+- Any learnings/ challenges/ considerations/ assumptions, please document in [MyDocument.md](https://github.com/projectforyou/project1/blob/main/MyDocument.md)
 
 ## Technical Support:
 
