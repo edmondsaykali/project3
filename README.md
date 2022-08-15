@@ -55,8 +55,11 @@ Technical Support:
 1. Fork this repository to your local one.
 2. Follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
 3. Setup Validation - [SETUP_VALIDATION.md](https://github.com/projectforyou/project1/blob/main/SETUP_VALIDATION.md)
-4. Open the Jupyter notebook (assesment_notebook.ipynb) using the link similar to the one highlighted in the picture - ![jupyter-notebook](https://github.com/projectforyou/project1/blob/main/pictures/docker-compose.png)
-5. Run the cells as per the documentations provided. 
+4. Open the Jupyter notebook home page, using the link similar to the one highlighted in the picture - ![jupyter-notebook](https://github.com/projectforyou/project1/blob/main/pictures/docker-compose.png)
+5. Open the notebook (assesment_notebook.ipynb). 
+6. Read the documentation and run the cells accordingly. Once you create a spark session you should be able to see application "pyspark-assesment" running in the Spark Master UI as below. 
+
+  ![spark-application](https://github.com/projectforyou/project1/blob/main/pictures/spark-application.png)
 
 By now you would have already have below things in place:
 
@@ -65,6 +68,8 @@ By now you would have already have below things in place:
 - Datasets read that is required for your activity.
 - Sample function within the notebook arriving at a basic KPI.
 - Sample test case for testing the function. 
+
+Happy Coding!!
 
 Submission:
 -- 
