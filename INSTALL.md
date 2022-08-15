@@ -1,16 +1,17 @@
-Installation Instructions
--- 
-IMPORTANT: Any installation option requires at least 8Gb of RAM for proper operation.
+# Installation Instructions
+ 
 
-1. Docker Desktop
+***IMPORTANT**: Any installation option requires at least 8Gb of RAM for proper operation.*
 
-	**Using Windows**: Install docker desktop https://docs.docker.com/desktop/install/windows-install/
+1. Install Docker Desktop
+
+	  **Using Windows**: Install docker desktop https://docs.docker.com/desktop/install/windows-install/
 	
-	**Using MacOS**: Follow instructions in the below link to setup your MacOS https://arjon.es/2019/setting-up-macbook-pro-for-development/
+	  **Using MacOS**: Follow instructions in the below link to setup your MacOS https://arjon.es/2019/setting-up-macbook-pro-for-development/
 
-2. Ensure docker desktop is up and running by following below validations:
+2. Ensure Docker Desktop is up and running by following below validations:
 	
-	Open Docker desktop and check for "my_assesment" project having 5 containers as below
+	Open Docker desktop and check for **my_assesment** project having 5 containers as below
 
 	  ![docker-desktop](https://github.com/projectforyou/project1/blob/main/pictures/docker-desktop-containers.png)
 
