@@ -2,27 +2,18 @@ Installation Instructions
 -- 
 IMPORTANT: Any installation option requires at least 8Gb of RAM for proper operation.
 
+1. Docker Desktop
 
-Using Windows:
---
+	Using Windows: Install docker desktop https://docs.docker.com/desktop/install/windows-install/
+	Using MacOS: Follow instructions in the below link to setup your MacOS https://arjon.es/2019/setting-up-macbook-pro-for-development/
 
-1. Install docker desktop https://docs.docker.com/desktop/install/windows-install/
-2. Make sure docker desktop is up and running.
-3. Open the power shell and trigger below lines of the code
-
-	cd {project1-directory}
+2. Ensure docker desktop is up and running by following below validations:
 	
-	docker compose -f ./docker-compose.yml --project-name my_assesment up
+	Setup Validation - [SETUP_VALIDATION.md](https://github.com/projectforyou/project1/blob/main/SETUP_VALIDATION.md) 
 
-
-Using MacOS:
---
-
-1. Follow instructions in the below link to setup your MacOS https://arjon.es/2019/setting-up-macbook-pro-for-development/
-2. Make sure docker desktop is up and running.
-3. Open the shell and run the below line 
-	
-	cd {project1-directory}
-	
-	docker compose -f ./docker-compose.yml --project-name my_assesment up
-
+3. Spinup Spark cluster: 
+	a. Open shell and run the below lines
+	b. Change directory to the /project1
+		cd {project1-directory}
+	c. Docker compose
+		docker compose -f ./docker-compose.yml --project-name my_assesment up
