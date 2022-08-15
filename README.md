@@ -43,7 +43,7 @@ This challenge is composed of following steps:
 - Features removal based on the exploration/ profiling.
 - Store your processed data into a target file
 
-Expectation includes: 
+Expectation includes (Along with above mentioned activities): 
 --
 - Test cases 
 - Code Comments 
