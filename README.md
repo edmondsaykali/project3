@@ -54,8 +54,9 @@ This challenge is composed of following steps:
 ## Technical Support:
 
 1. Fork this repository to your local one.
-2. Follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
-3. Open the Jupyter notebook home page, using the link similar to the one highlighted in the picture 
+     - **Please don't commit anything to this repos, everything should be done in your local repos**.
+3. Follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
+4. Open the Jupyter notebook home page, using the link similar to the one highlighted in the picture 
 
   ![jupyter-notebook](https://github.com/projectforyou/project1/blob/main/pictures/docker-compose.png)
 
