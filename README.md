@@ -53,9 +53,15 @@ This challenge is composed of following steps:
 
 ## Technical Support:
 
-1. Clone this repository to your local (using HTTPS protocol).
+1. Clone this repository to your local and create a branch and work on the branch, please don't commit anything in main branch(using HTTPS protocol).
+     - If git clone using password does not work follow the below steps:
+        a. Click on your profile -> settings -> Developer settings -> Personal Access Tokens -> Tokens(Classic) -> Generate New Token
+        b. In select scopes, give all repo permissions -> Click on Generate Token
+        c. Copy the personal access token generated and copy it somewhere as it will be not visible again.
+        d. In git terminal when you run git clone command -> enter git id and for password enter the personal access token generated in previous step
+        
      - **Access to the parent repo will be removed within 4 days from the day you are made as collaborator**.
-2. Push the cloned repo into your our Github account.
+2. Push the cloned repo into your own Github account.
      - **Please don't commit anything to the parent repo, everything should be done in your local repos**.
 3. Follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
 4. Open the Jupyter notebook home page, using the link similar to the one highlighted in the picture 
