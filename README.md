@@ -53,15 +53,17 @@ This challenge is composed of following steps:
 
 ## Technical Support:
 
-1. Fork this repository to your local one.
-     - **Please don't commit anything to this repos, everything should be done in your local repos**.
+1. Clone this repository to your local (using HTTPS protocol).
+     - **Access to the parent repo will be removed within 4 days from the day you are made as collaborator**.
+2. Push the cloned repo into your our Github account.
+     - **Please don't commit anything to the parent repo, everything should be done in your local repos**.
 3. Follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
 4. Open the Jupyter notebook home page, using the link similar to the one highlighted in the picture 
 
   ![jupyter-notebook](https://github.com/projectforyou/project1/blob/main/pictures/docker-compose.png)
 
-4. Open the notebook (assesment_notebook.ipynb). 
-5. Read the documentation and run the cells accordingly. Once you create a spark session you should be able to see application **pyspark-assesment** running in the Spark Master UI as below. 
+5. Open the notebook (assesment_notebook.ipynb). 
+6. Read the documentation and run the cells accordingly. Once you create a spark session you should be able to see application **pyspark-assesment** running in the Spark Master UI as below. 
 
   ![spark-application](https://github.com/projectforyou/project1/blob/main/pictures/spark-application.png)
 
@@ -75,6 +77,6 @@ By now you would have already have below things in place:
 
 ## Submission:
  
-Once the activity is completed, commit/push your code into your own Git. Please share the GitHub repository URL with hiring team, so they can review your work.
+Once the activity is completed, commit/ push your code into your own GitHub repo. Please share the GitHub repository URL with hiring team, so they can review your work.
 
 # Happy Coding!!
