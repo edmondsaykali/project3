@@ -62,8 +62,8 @@ This challenge is composed of following steps:
         
      - **Access to the parent repo will be removed within 4 days from the day you are made as collaborator**.
      
-2. Push the cloned repo into your own Github account.
-     - **Please don't commit anything to the parent repo, everything should be done in your own Github repo **.
+2. Push the cloned repo into **your own** Github account.
+     - **Please don't commit anything to the parent repo, everything should be done in your own Github repo**.
      
 3. Follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
 4. Open the Jupyter notebook home page, using the link similar to the one highlighted in the picture 
